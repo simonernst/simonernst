@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Ernst</h1>
 <h3 align="center">A passionate Robotic Engineer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonernst&label=Profile%20views&color=0e75b6&style=flat" alt="simonernst" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonernst" alt="simonernst" /></a> </p>
 
 - 🔭 I’m currently working on [https://github.com/simonernst/iROS_drone](https://github.com/simonernst/iROS_drone)
 
@@ -40,3 +37,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonernst&show_icons=true&locale=en&layout=compact" alt="simonernst" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonernst&show_icons=true&locale=en" alt="simonernst" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonernst&label=Profile%20views&color=0e75b6&style=flat" alt="simonernst" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonernst" alt="simonernst" /></a> </p>
+
+
