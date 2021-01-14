@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Robotic Engineer from France</h3>
 
 
-- 🔭 I’m currently working on [https://github.com/simonernst/iROS_drone](https://github.com/simonernst/pyodb-pi)
+- 🔭 I’m currently working on [https://github.com/simonernst/pyobd-pi](https://github.com/simonernst/pyodb-pi)
 
 - 🌱 I’m currently learning **OBD protocol**
 
