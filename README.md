@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Robotic Engineer from France</h3>
 
 
-- 🔭 I’m currently working on [https://github.com/simonernst/iROS_drone](https://github.com/simonernst/iROS_drone)
+- 🔭 I’m currently working on [https://github.com/simonernst/iROS_drone](https://github.com/simonernst/pyodb-pi)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **OBD protocol**
 
-- 💬 Ask me about **ROS, Robotics**
+- 💬 Ask me about **ROS, Robotics, Autonomous Vehicles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
