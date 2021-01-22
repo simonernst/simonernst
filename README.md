@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [https://github.com/simonernst/pyobd-pi](https://github.com/simonernst/pyobd-pi)
 
-- 🌱 I’m currently learning **OBD protocol**
+- 🌱 I’m currently learning **OBD protocol& & Docker**
 
 - 💬 Ask me about **ROS, Robotics, Autonomous Vehicles**
 
