@@ -23,8 +23,8 @@
 
 <h3 align="left">Platform & Tools:</h3>
 <p align="left"> 
-<a href=""https://www.ros.org/" rel="ROS">![ROS](./images/ros.png =100x)</a>
-<a href=""https://www.linux.org/" rel="Linux">![Linux](./images/linux.png =100x)</a>
+<a href=""https://www.ros.org/">![ROS](./images/ros.png =100x)</a>
+<a href=""https://www.linux.org/">![Linux](./images/linux.png =100x)</a>
 <a href=""https://www.github.org/" rel="Github">![Github](./images/github.png =100x)</a>
 </p>
   
