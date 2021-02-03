@@ -23,6 +23,8 @@
 
 <h3 align="left">Platform & Tools:</h3>
 <p align="left"> 
+[![ROS](./images/ros.png =100x "ROS")][https://www.ros.org/]
+
 <a href=""https://www.ros.org/">![ROS](./images/ros.png =100x)</a>
 <a href=""https://www.linux.org/">![Linux](./images/linux.png =100x)</a>
 <a href=""https://www.github.org/" rel="Github">![Github](./images/github.png =100x)</a>
