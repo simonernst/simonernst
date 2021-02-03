@@ -24,7 +24,7 @@
 <h3 align="left">Platforms and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ros.org/"><img src="./imgs/ros.png" width="100" ></a>
-<a href="https://www.linux.org/"><img src="./imgs/linux.png" width="100" ></a>
+<a href="https://www.linux.org/"><img src="./imgs/linux.svg" width="100" ></a>
 <a href="https://www.github.com/"><img src="./imgs/github.png" width="100" ></a>
 </p>
   
