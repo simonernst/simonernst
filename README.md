@@ -17,32 +17,30 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/simon-ernst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="simon-ernst" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCue39wJws6HaM26L7ggLg3g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucue39wjws6ham26l7gglg3g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simon-ernst"><img src="./imgs/linkedin.png" width="100" ></a>
+<a href="https://www.youtube.com/channel/UCue39wJws6HaM26L7ggLg3g"><img src="./imgs/youtube.png" width="100" ></a>
 </p>
 
-<h3 align="left">Platform & Tools:</h3>
+<h3 align="left">Platforms and Tools:</h3>
 <p align="left"> 
-[![ROS](./images/ros.png =100x "ROS")][https://www.ros.org/]
-
-<a href=""https://www.ros.org/">![ROS](./images/ros.png =100x)</a>
-<a href=""https://www.linux.org/">![Linux](./images/linux.png =100x)</a>
-<a href=""https://www.github.org/" rel="Github">![Github](./images/github.png =100x)</a>
+<a href="https://www.ros.org/"><img src="./imgs/ros.png" width="100" ></a>
+<a href="https://www.linux.org/"><img src="./imgs/linux.png" width="100" ></a>
+<a href="https://www.github.com/"><img src="./imgs/github.png" width="100" ></a>
 </p>
   
-<h3 align="left">Programming languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-<a href=""https://www.python.org/" rel="Python">![Python](./images/python.png =100x)</a>
-<a href=""https://www.cprogramming.com/" rel="C">![C](./images/c.png =100x)</a>
-<a href=""https://www.w3schools.com/cpp/" rel="CPP">![CPP](./images/cpp.png =100x)</a>   
-<a href=""https://www.docker.com/" rel="Docker">![Docker](./images/docker.png =100x)</a>   
+<a href="https://www.python.org/"><img src="./imgs/python.png" width="100" ></a>
+<a href="https://www.cprogramming.com/"><img src="./imgs/c.png" width="100" ></a>
+<a href="https://www.w3schools.com/cpp"><img src="./imgs/cpp.png" width="100" ></a>
+<a href="https://www.docker.com/"><img src="./imgs/docker.png" width="100" ></a>
 </p>
 
 <h3 align="left">Hardware:</h3>
 <p align="left"> 
-<a href=""https://www.arduino.cc/" rel="Arduino">![Arduino](./images/arduino.png =100x)</a>
-<a href=""https://www.nvidia.com/" rel="Jetson">![Jetson](./images/jetson.png =100x)</a>
-<a href=""https://www.raspberrypi.org/" rel="Raspberry Pi">![Raspberry Pi](./images/rpi.png =100x)</a>   
+<a href="https://www.arduino.cc/"><img src="./imgs/arduino.png" width="100" ></a>
+<a href="https://www.nvidia.com/"><img src="./imgs/nvidia.png" width="100" ></a>
+<a href="https://www.raspberrypi.org/"><img src="./imgs/rpi.png" width="100" ></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonernst&show_icons=true&locale=en&layout=compact" alt="simonernst" /></p>
