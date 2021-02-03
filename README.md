@@ -15,12 +15,6 @@
    - Windows 10 - Insider Development builds
    - WSL 2 with GPU integration + Docker GPU support
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/simon-ernst"><img src="./imgs/linkedin.png" width="100" ></a>
-<a href="https://www.youtube.com/channel/UCue39wJws6HaM26L7ggLg3g"><img src="./imgs/youtube.png" width="100" ></a>
-</p>
-
 <h3 align="left">Platforms and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ros.org/"><img src="./imgs/ros.png" width="100" ></a>
@@ -51,4 +45,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonernst" alt="simonernst" /></a> </p>
 
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/simon-ernst"><img src="./imgs/linkedin.png" width="100" ></a>
+<a href="https://www.youtube.com/channel/UCue39wJws6HaM26L7ggLg3g"><img src="./imgs/youtube.png" width="100" ></a>
+</p>
 
