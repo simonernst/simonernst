@@ -6,9 +6,14 @@
    - [Car-Logger](https://github.com/simonernst/car-logger)
    - [RoboCup](https://github.com/Robocup-Lyontech/robocup-main)
 
-- 🌱 I’m currently learning **OBD protocol& & Docker**
+- 🌱 I’m currently learning **OBD protocol & Docker**
 
 - 💬 Ask me about **ROS, Robotics, Autonomous Vehicles**
+
+- My setup :
+   - Lenovo Y540 - i5 4C/8T, 16Go RAM, GTX1660Ti (6Go)
+   - Windows 10 - Insider Development builds
+   - WSL 2 with GPU integration + Docker GPU support
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
