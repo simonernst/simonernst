@@ -5,15 +5,16 @@
 - 🔭 I’m currently working on :
    - [Car-Logger](https://github.com/simonernst/car-logger)
    - [RoboCup](https://github.com/Robocup-Lyontech/robocup-main)
+   - [iROS_drone](https://github.com/simonernst/iROS_drone)
 
-- 🌱 I’m currently learning **OBD protocol & Docker**
+- 🌱 I’m currently learning **Car logging & Docker**
 
-- 💬 Ask me about **ROS, Robotics, Autonomous Vehicles**
+- 💬 Ask me about **ROS, Robotics, Autonomous Vehicles, IOT**
 
 - My setup :
    - Lenovo Y540 - i5 4C/8T, 16Go RAM, GTX1660Ti (6Go)
-   - Windows 10 - Insider Development builds
-   - WSL 2 with GPU integration + Docker GPU support
+      - Windows 10 - Insider Development builds with WSL 2 (GPU integration + Docker GPU support)
+      - Ubuntu 18.04
 
 <h3 align="left">Platforms and Tools:</h3>
 <p align="left"> 
